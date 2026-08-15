@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Hi, I'm ONXX
 
-<!--
-**onxx-x145/onxx-x145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Open Source Developer & Tool Designer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm ONXX, working on open-source projects, Android tools, Java applications, AI experiments, Python utilities, and Termux projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ What I Build
+
+- 📱 Android Tools & Utilities
+- ☕ Java Projects
+- 🐍 Python Tools
+- 🤖 AI Projects & Experiments
+- 💻 Termux Utilities
+- 🔧 Open Source Developer Tools
+
+⭐ Featured Projects
+
+Check out my repositories for the latest ONXX tools and projects.
+
+🔍 Find My Projects
+
+Search GitHub for:
+
+ONXX
+onxx-x146
+ONXX Android Tools
+ONXX AI
+ONXX Termux Tools
+
+🤝 Support
+
+If you find a project useful, feel free to ⭐ Star the repository and follow my GitHub profile.
+
+Thanks for visiting! 🚀
+
+© ONXX
