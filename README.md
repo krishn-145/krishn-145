@@ -1,14 +1,14 @@
-👋 Hi, I'm ONXX
-<img width="1254" height="1254" alt="148552" src="https://github.com/user-attachments/assets/eba7ce32-ad4c-40cd-a38e-cfcfc70f25f5" />
+👋 Hi, I'm Krishn 🔱
+![Uploading 49094.png…]()
 
 
 🚀 Open Source Developer & Tool Designer
 # **MY Website ✒️**
  👇🏻
  
- [![Vercel](https://img.shields.io/badge/Vercel-00000F?style=for-the-badge&logo=vercel&logoColor=white)](https://onxx2.vercel.app/)
+ [![Vercel](https://img.shields.io/badge/Vercel-00000F?style=for-the-badge&logo=vercel&logoColor=white)](https://krishn2.vercel.app/)
 
-Welcome to my GitHub profile! I'm ONXX, working on open-source projects, Android tools, Java applications, AI experiments, Python utilities, and Termux projects.
+Welcome to my GitHub profile! I'm Krishn, working on open-source projects, Android tools, Java applications, AI experiments, Python utilities, and Termux projects.
 
 🛠️ What I Build
 
@@ -22,17 +22,17 @@ Welcome to my GitHub profile! I'm ONXX, working on open-source projects, Android
 
 ⭐ Featured Projects
 
-Check out my repositories for the latest ONXX tools and projects.
+Check out my repositories for the latest Krishn tools and projects.
 
 🔍 Find My Projects
 
 Search GitHub for:
 
-ONXX
-onxx-x146
-ONXX Android Tools
+Krishn 
+krishn-145
+Krishn Android Tools
 ONXX AI
-ONXX Termux Tools
+Krishn Termux Tools
 
 🤝 Support
 
@@ -40,4 +40,4 @@ If you find a project useful, feel free to ⭐ Star the repository and follow my
 
 Thanks for visiting! 🚀
 
-© ONXX
+© KRISHN 🔱
