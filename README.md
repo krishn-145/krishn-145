@@ -1,5 +1,7 @@
 👋 Hi, I'm Krishn 🔱
-![Uploading 49094.png…]()
+---
+<img width="1254" height="1254" alt="49094" src="https://github.com/user-attachments/assets/902f7570-4e84-424b-8c49-c126456b3f46" />
+
 
 
 🚀 Open Source Developer & Tool Designer
