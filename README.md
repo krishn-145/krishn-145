@@ -8,7 +8,7 @@
 # **MY Website ✒️**
  👇🏻
  
- [![Vercel](https://img.shields.io/badge/Vercel-00000F?style=for-the-badge&logo=vercel&logoColor=white)](https://krishn2.vercel.app/)
+ [![Vercel](https://img.shields.io/badge/Vercel-00000F?style=for-the-badge&logo=vercel&logoColor=white)](https://krishn1.vercel.app/)
 
 Welcome to my GitHub profile! I'm Krishn, working on open-source projects, Android tools, Java applications, AI experiments, Python utilities, and Termux projects.
 
