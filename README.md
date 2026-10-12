@@ -1,6 +1,6 @@
 👋 Hi, I'm Krishn 🔱
----
-<img width="1254" height="1254" alt="49094" src="https://github.com/user-attachments/assets/902f7570-4e84-424b-8c49-c126456b3f46" />
+---<img width="554" height="554" alt="102221" src="https://github.com/user-attachments/assets/d8a96127-1ddd-455a-9917-bddbf465d806" />
+
 
 
 
